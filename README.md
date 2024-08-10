@@ -29,7 +29,6 @@
 <br>
 
 <div align="Center">
-    <a href='https://docs.microsoft.com/en-us/dotnet/csharp/'><img src='https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white' alt='C#' /></a>
     <a href='https://en.wikipedia.org/wiki/C_(programming_language)'><img src='https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white' alt='C' /></a>
     <a href='https://en.wikipedia.org/wiki/C%2B%2B'><img src='https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white' alt='C++' /></a>
     <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'><img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' alt='CSS3' /></a>
@@ -46,7 +45,8 @@
 <br>
 
 <div align="Center">
-    <a href='https://openai.com/blog/openai-api/'><img src='https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=flat' alt='OpenAI'/> </a>
+    <a href='https://huggingface.co/'><img src='https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=for-the-badge' alt='Hugging Face'/></a>a
+    <a href='https://openai.com/blog/openai-api/'><img src='https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge' alt='OpenAI'/> </a>
     <a href='https://www.tensorflow.org/'><img src='https://img.shields.io/badge/Tensorflow-FF6F00.svg?style=for-the-badge&logo=Tensorflow&logoColor=white' alt='Tensorflow' /></a>
     <a href='https://keras.io/'><img src='https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white' alt='Keras' /></a>
     <a href='https://numpy.org/'><img src='https://img.shields.io/badge/Numpy,%20CuPy-013243.svg?style=for-the-badge&logo=Numpy&logoColor=white' alt='Numpy' /></a>
@@ -67,7 +67,7 @@
 <br>
 
 <div align="Center">
-  <a href='https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff&style=flat'><img src='' alt='NixOS'/></a>
+  <a href='https://nixos.org/'><img src='https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff&style=for-the-badge' alt='NixOS'/></a>
   <a href='https://www.arm.com/'><img src='https://img.shields.io/badge/ARM-0091BD.svg?style=for-the-badge&logo=ARM&logoColor=white' alt='ARM' /></a>
   <a href='https://www.microsoft.com/en-in/windows/?r=1'><img src='https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white' alt='Windows' /></a>
   <a href='https://www.linux.org/'><img src='https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black' alt='Linux' /></a>
