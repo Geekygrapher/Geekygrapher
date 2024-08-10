@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mukul Sharma</h1>
 <h3 align="center">A passionate AI/ML developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=CodeBulletin&label=Profile%20views&color=0e75b6&style=plastic" alt="codebulletin" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Geekygrapher&label=Profile%20views&color=0e75b6&style=plastic" alt="Geekygrapher" /> </p>
 
 - 🌱 I’m currently learning **Generative AI**
 
