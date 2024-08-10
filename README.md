@@ -45,7 +45,7 @@
 <br>
 
 <div align="Center">
-    <a href='https://huggingface.co/'><img src='https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=for-the-badge' alt='Hugging Face'/></a>a
+    <a href='https://huggingface.co/'><img src='https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=for-the-badge' alt='Hugging Face'/></a>
     <a href='https://openai.com/blog/openai-api/'><img src='https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge' alt='OpenAI'/> </a>
     <a href='https://www.tensorflow.org/'><img src='https://img.shields.io/badge/Tensorflow-FF6F00.svg?style=for-the-badge&logo=Tensorflow&logoColor=white' alt='Tensorflow' /></a>
     <a href='https://keras.io/'><img src='https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white' alt='Keras' /></a>
